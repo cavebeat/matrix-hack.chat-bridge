@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# encoding: utf-8
+
 '''
 @author: cave
 https://github.com/cavebeat/matrix-hack.chat-bridge
@@ -10,7 +13,7 @@ https://github.com/cavebeat/matrix-hack.chat-bridge/blob/master/LICENSE
 '''
 https://github.com/gkbrk/hackchat
 
-Copyright (c) 2017 Gökberk Yaltıraklı
+Copyright (c) 2017 Gökberk Yaltirakli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
